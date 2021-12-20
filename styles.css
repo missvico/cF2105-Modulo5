@@ -1,0 +1,105 @@
+ * {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#first-p{
+    color: blueviolet;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.input-text{
+    color: goldenrod;
+}
+
+.otraClass{
+    font-family:'Times New Roman', Times, serif;
+}
+
+p {
+    font-weight: bold;
+}
+
+input[type="text"] {
+    border: none
+}
+
+#container > p {
+    color: green
+}
+
+#container span {
+    color: red
+} 
+
+a {
+    text-decoration: none;
+    color: orange;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    line-height: 30px;
+    text-indent: 10px;
+    word-spacing: 5px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline indianred solid;
+    letter-spacing: 5px;
+}
+
+.first {
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+.second {
+    color: blue;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.third {
+   background-color: cornflowerblue;
+   color: blue;
+   text-decoration: underline;
+   text-transform: uppercase ;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.fourth {
+    color: yellow;
+    background-color: greenyellow;
+    /* border: 2px solid black; */
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.fifth {
+    color: red;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    word-spacing: 10px;
+    line-height: 25px;
+}
+
+.sixth {
+    background-color: violet;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    word-spacing: 25px;
+    letter-spacing: 8px;
+    text-align: justify;
+}
